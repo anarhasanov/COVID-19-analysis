@@ -1,4 +1,4 @@
-# COVID-19-analysis
+# COVID-19-analysis (visualizations and predictions)
 
 This project is dedicated to analysis of CorovaVirus (COVID-19) outbreak data.
 Analysis includes visualizations and some predictions.
